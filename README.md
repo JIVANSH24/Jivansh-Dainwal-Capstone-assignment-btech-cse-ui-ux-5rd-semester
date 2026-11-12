@@ -1,0 +1,2 @@
+# Jivansh-Dainwal-Capstone-assignment-btech-cse-ui-ux-5rd-semester
+A Python and Bash-based Operating System Resource Management Simulator that demonstrates CPU scheduling, memory management, deadlock detection, and disk scheduling algorithms with performance comparisons, visualizations, and automated testing.
