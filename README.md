@@ -28,6 +28,3 @@ The application provides an interactive command-line interface to explore differ
 
 To develop a practical learning tool that demonstrates how operating systems allocate resources, schedule processes, manage memory, prevent deadlocks, and optimise disk operations.
 
-**Project Type:** Academic / University Project  
-**Programme:** B.Tech CSE (UI/UX)  
-**Semester:** V
